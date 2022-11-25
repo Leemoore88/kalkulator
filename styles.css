@@ -1,0 +1,13 @@
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.main {
+    width: 907px;
+    height: 673px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 45px;
+    box-shadow: 0 0 5px #b8b7b7;
+}
+
